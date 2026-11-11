@@ -25,7 +25,7 @@ O projeto adota uma estrutura monorepo dividida em três serviços independentes
 
 1. Clone o repositório:
 \`\`\`bash
-git clone https://github.com/SEU_USUARIO/ai-voice-agent.git
+git clone https://github.com/fabioestevao1/ai-voice-agent.git
 cd ai-voice-agent
 \`\`\`
 
@@ -60,7 +60,7 @@ Follow these steps to get the three services running on your local machine.
 
 ### 1. Clone the repository
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/ai-voice-agent.git
+git clone https://github.com/fabioestevao1/ai-voice-agent.git
 cd ai-voice-agent
 \`\`\`
 
